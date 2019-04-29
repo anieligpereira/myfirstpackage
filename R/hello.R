@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-goodbye <- function() {
-  print("Goodbye, sweet world!")
-}
-=======
 # Hello, world!
 #
 # This is an example function named 'hello'
@@ -18,6 +13,7 @@ goodbye <- function() {
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
+#' @export
 hello <- function() {
   print("Hello, world!")
 }
