@@ -22,4 +22,3 @@ hello <- function() {
   print("Hello, world!")
 }
 
->>>>>>> ec66b8124566462d2623b6dd4d67671a10b64798
